@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{24CEF576-C2E1-B0E0-2A9E-41652C37BD4B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Manager/Admob.cs">
+    <Files>
+      <File FileName="Assets/script/GoogleService/CloudSave.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assets/script/gameManager/SaveManager.cs" IsPinned="True" />
+      <File FileName="Assets/script/UI/MainMenu.cs" IsPinned="True" />
+      <File FileName="Assets/script/Manager/HeartStateManager.cs" IsPinned="True" />
+      <File FileName="Assets/script/IAP/IAP_BuyButton.cs" IsPinned="True" />
+      <File FileName="Assets/TimeOut_Manager.cs" IsPinned="True" />
+      <File FileName="Assets/script/Manager/Admob.cs" Line="138" Column="73" IsPinned="True" />
+      <File FileName="Assets/script/gameManager/GameScoreManager.cs" IsPinned="True" />
+      <File FileName="Assets/script/Debug_Manager.cs" Line="63" Column="24" IsPinned="True" />
+      <File FileName="Assets/script/IAP/IAP_Manager.cs" />
+      <File FileName="Assets/script/Reward/Reward_GameStart.cs" />
+      <File FileName="Assets/script/gameManager/sceneManager.cs" />
+      <File FileName="Assets/script/UI/Points_Manager.cs" />
+      <File FileName="Assets/script/Reward/RewardCenter.cs" />
+      <File FileName="Assets/script/UI/SpawnCardsForRoster.cs" />
+      <File FileName="Assets/script/ballEvent/ballEvent.cs" />
+      <File FileName="Assets/script/UI/MainMenu_Buttons_Manager.cs" />
+      <File FileName="Assets/script/gameManager/SpawnPlayer.cs" />
+      <File FileName="Assets/script/gameManager/ResetMainMenu.cs" />
+      <File FileName="Assets/script/ballEvent/cameraMoveEventListener.cs" />
+      <File FileName="Assets/script/ballEvent/HitBallEventListener.cs" />
+      <File FileName="Assets/script/gameManager/GameManager_ToggleMenu.cs" />
+      <File FileName="Assets/script/IAP/Contact_Click.cs" />
+      <File FileName="Assets/script/action/ActionBase.cs" Line="745" Column="45" />
+      <File FileName="Assets/script/ballEvent/InputTouchManager.cs" Line="515" Column="50" />
+      <File FileName="Assets/script/ballEvent/Select_go.cs" Line="198" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VGO" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GoogleMobileAds" expanded="True">
+                <Node name="Common" expanded="True" />
+              </Node>
+              <Node name="Plugins" expanded="True">
+                <Node name="UnityPurchasing" expanded="True">
+                  <Node name="script" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="script" expanded="True">
+                <Node name="action" expanded="True" />
+                <Node name="ballEvent" expanded="True" />
+                <Node name="gameManager" expanded="True" />
+                <Node name="GoogleService" expanded="True" />
+                <Node name="IAP" expanded="True" />
+                <Node name="Manager" expanded="True">
+                  <Node name="Admob.cs" selected="True" />
+                </Node>
+                <Node name="Reward" expanded="True" />
+                <Node name="ScriptableObjects" expanded="True" />
+                <Node name="setup" expanded="True" />
+                <Node name="texture" expanded="True" />
+                <Node name="UI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="741eb60a-f60b-496e-ba3b-197decc5d3d4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

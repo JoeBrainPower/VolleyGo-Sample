@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{239D2450-E7FB-6105-2086-CD4C0251C693}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5ba4b78a-09a3-415c-b1b8-4c71617d26b6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/gameManager/sceneManager.cs">
+    <Files>
+      <File FileName="Assets/script/Manager/Admob.cs" />
+      <File FileName="Assets/script/ballEvent/cameraMoveEventListener.cs" />
+      <File FileName="Assets/script/Manager/HeartStateManager.cs" />
+      <File FileName="Assets/script/GoogleService/CloudSave.cs" />
+      <File FileName="Assets/script/gameManager/SaveManager.cs" />
+      <File FileName="Assets/script/UI/MainMenu.cs" Line="65" Column="41" />
+      <File FileName="Assets/script/Reward/RewardCenter.cs" />
+      <File FileName="Assets/script/Reward/Reward_GameStart.cs" />
+      <File FileName="Assets/script/UI/SpawnCardsForRoster.cs" />
+      <File FileName="Assets/script/gameManager/SpawnPlayer.cs" />
+      <File FileName="Assets/script/ballEvent/Select_go.cs" />
+      <File FileName="Assets/script/Reward/RewardGameManager.cs" />
+      <File FileName="Assets/script/UI/Points_Manager.cs" />
+      <File FileName="Assets/script/action/ActionBase.cs" />
+      <File FileName="Assets/script/UI/SpawnCardsForSubs.cs" />
+      <File FileName="Assets/script/gameManager/SaveState.cs" />
+      <File FileName="Assets/script/ballEvent/BallEvent.cs" />
+      <File FileName="Assets/script/UI/Draggable.cs" />
+      <File FileName="Assets/script/ballEvent/lightRingEventListener.cs" />
+      <File FileName="Assets/script/ballEvent/InputTouchManager.cs" />
+      <File FileName="Assets/script/Manager/Debug_Manager.cs" />
+      <File FileName="Assets/script/gameManager/Versus_page_Manager.cs" />
+      <File FileName="Assets/ShowNewGame.cs" />
+      <File FileName="Assets/script/gameManager/sceneManager.cs" Line="60" Column="9" />
+      <File FileName="Assets/script/IAP/Contact_Click.cs" />
+      <File FileName="Assets/script/UI/MainMenu_Buttons_Manager.cs" />
+      <File FileName="Assets/script/IAP/IAP_Manager.cs" />
+      <File FileName="Assets/script/IAP/IAP_BuyButton.cs" />
+      <File FileName="Assets/script/setup/preloader.cs" />
+      <File FileName="Assets/script/TwoPlay_Manager.cs" />
+      <File FileName="Assets/script/Manager/boardManager.cs" />
+      <File FileName="Assets/script/ballEvent/ballHitPower.cs" />
+      <File FileName="Assets/script/ballEvent/HitBallEventListener.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/joecheung/Documents/VolleyGo/Assets/script/UI/Points_Manager.cs" relfile="Assets/script/UI/Points_Manager.cs" line="35" column="1" />
+      <Breakpoint file="/Users/joecheung/Documents/VolleyGo/Assets/script/action/ActionBase.cs" relfile="Assets/script/action/ActionBase.cs" line="1505" column="1" />
+      <Breakpoint file="/Users/joecheung/Documents/VolleyGo/Assets/script/action/ActionBase.cs" relfile="Assets/script/action/ActionBase.cs" line="1519" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
